@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sandbox", "Sandbox\Sandbox.csproj", "{292EC1FF-55B2-48FF-98F5-A331D8C884ED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "Tests\Tests.csproj", "{5B06A11D-AACA-4A66-883D-393747213778}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{292EC1FF-55B2-48FF-98F5-A331D8C884ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{292EC1FF-55B2-48FF-98F5-A331D8C884ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{292EC1FF-55B2-48FF-98F5-A331D8C884ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{292EC1FF-55B2-48FF-98F5-A331D8C884ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B06A11D-AACA-4A66-883D-393747213778}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B06A11D-AACA-4A66-883D-393747213778}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B06A11D-AACA-4A66-883D-393747213778}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B06A11D-AACA-4A66-883D-393747213778}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
