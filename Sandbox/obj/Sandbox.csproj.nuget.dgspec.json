@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/wosorto/Library/Application Support/JetBrains/Rider2020.1/resharper-host/RiderTutorials/Tutorials/T11/Sandbox/Sandbox.csproj": {}
+    "/Users/wosorto/RiderProjects/kata-tests-wo/Sandbox/Sandbox.csproj": {}
   },
   "projects": {
-    "/Users/wosorto/Library/Application Support/JetBrains/Rider2020.1/resharper-host/RiderTutorials/Tutorials/T11/Sandbox/Sandbox.csproj": {
+    "/Users/wosorto/RiderProjects/kata-tests-wo/Sandbox/Sandbox.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/wosorto/Library/Application Support/JetBrains/Rider2020.1/resharper-host/RiderTutorials/Tutorials/T11/Sandbox/Sandbox.csproj",
+        "projectUniqueName": "/Users/wosorto/RiderProjects/kata-tests-wo/Sandbox/Sandbox.csproj",
         "projectName": "Sandbox",
-        "projectPath": "/Users/wosorto/Library/Application Support/JetBrains/Rider2020.1/resharper-host/RiderTutorials/Tutorials/T11/Sandbox/Sandbox.csproj",
+        "projectPath": "/Users/wosorto/RiderProjects/kata-tests-wo/Sandbox/Sandbox.csproj",
         "packagesPath": "/Users/wosorto/.nuget/packages/",
-        "outputPath": "/Users/wosorto/Library/Application Support/JetBrains/Rider2020.1/resharper-host/RiderTutorials/Tutorials/T11/Sandbox/obj/",
+        "outputPath": "/Users/wosorto/RiderProjects/kata-tests-wo/Sandbox/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/wosorto/.nuget/NuGet/NuGet.Config"

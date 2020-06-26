@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NdVut0mjt5hw5LuBPcYC9LlKc+giSECE2D8soi4fNEXkxDCNQIqSY0xVeFNEhuWBaHoE0k1HeQ9vXUNWmxpIKw==",
+  "dgSpecHash": "sWsDWHcwlZv1XMTkjVt1dKrOYxN15U5i0Y3GQhnlzPM8Ip6r2V87KKIWd+67bAH/pmtNE+3fL7XSvZ2PrQe6SQ==",
   "success": true,
-  "projectFilePath": "/Users/wosorto/Library/Application Support/JetBrains/Rider2020.1/resharper-host/RiderTutorials/Tutorials/T11/Sandbox/Sandbox.csproj",
+  "projectFilePath": "/Users/wosorto/RiderProjects/kata-tests-wo/Sandbox/Sandbox.csproj",
   "expectedPackageFiles": [
     "/Users/wosorto/.nuget/packages/microsoft.netcore.app/2.1.0/microsoft.netcore.app.2.1.0.nupkg.sha512",
     "/Users/wosorto/.nuget/packages/microsoft.netcore.dotnetapphost/2.1.0/microsoft.netcore.dotnetapphost.2.1.0.nupkg.sha512",
